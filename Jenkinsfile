@@ -1,1 +1,0 @@
-study ci cd

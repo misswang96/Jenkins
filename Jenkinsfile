@@ -1,1 +1,1 @@
-study ci cd
+Jenkinsfile
